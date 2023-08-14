@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://personal-portfolio-vs.netlify.app" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=Portfolio style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge alt=Portfolio style="margin-bottom: 5px;" />
 </a>
 
 
