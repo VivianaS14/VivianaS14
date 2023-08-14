@@ -12,15 +12,15 @@
 # 💫About Me :
   🔭 I’m currently working on my personals projects : https://tinyurl.com/2cjgpmox
   
-  🌱 I’m currently learning : React JS
+  🌱 I’m currently learning : NextJS
 
   👯 I’m looking to collaborate with frontend developers ✌🏻
 
-  💬 Ask me about for any help or my latest projects such a whatsapp clone
+  💬 Ask me about for any help or my latest projects
 
   📫 How to reach me:  @VivianaS14
 
-  ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+  ⚡ Fun fact: I love k-pop
 
 
 ## 🌐Socials
