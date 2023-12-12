@@ -10,17 +10,17 @@
 <div align="center">
   
 # 💫About Me :
-  🔭 I’m currently working on my personals projects : https://tinyurl.com/2cjgpmox
+  🔭 I’m currently working on a Jira App made with Next.js (soon)
   
-  🌱 I’m currently learning : NextJS
+  🌱 I’m currently learning: NextJS
 
   👯 I’m looking to collaborate with frontend developers ✌🏻
 
-  💬 Ask me about for any help or my latest projects
+  💬 Ask me for any help or my latest projects
 
   📫 How to reach me:  @VivianaS14
 
-  ⚡ Fun fact: I love k-pop
+  ⚡ Fun fact: I dance while programming 😋
 
 
 ## 🌐Socials
