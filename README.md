@@ -10,9 +10,9 @@
 <div align="center">
   
 # 💫About Me :
-  🔭 I’m currently working on a Jira App made with Next.js (soon)
+  🔭 I’m currently working with React Native
   
-  🌱 I’m currently learning: NextJS
+  🌱 I’m currently learning: React Native
 
   👯 I’m looking to collaborate with frontend developers ✌🏻
 
